@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @leothesouthafrican
+- 👀 I’m interested in data science and web development.
+- 🌱 I’m currently learning flask
+- 📫 How to reach me: leo.defig@gmail.com
