@@ -1,13 +1,11 @@
 about_me = <br /><br />{<br />
     &emsp;&ensp;"Hometown": "Johannesburg, South Africa"🇿🇦,<br />
-    &emsp;&ensp;"Current_City": "Lisbon, Portugal"🇵🇹,<br />
-    &emsp;&ensp;"Education":["BSc Business Management, Nova SBE", "MSc Data Science, Nova IMS", "Everything Else, Stack Overflow🥹"],<br />
+    &emsp;&ensp;"Current_City": "Luxembourg City, Luxembourg"🇱🇺,<br />
+    &emsp;&ensp;"Education":["BSc Business Management, Nova SBE", "MSc Data Science, Nova IMS", "Everything Else, Mixtral🥹"],<br />
     &emsp;&ensp;"Languages": sorted(["English", "Python", "Portuguese", "Arduino C", "SQL"]),<br />
-    &emsp;&ensp;"About_my_Repos": "Mainly projects related to hobbies, some are school projects.",<br />
-    &emsp;&ensp;"Magnum_Opus_Repo": https://github.com/leothesouthafrican/genetic_algorithm_snake,<br />
     &emsp;&ensp;"Hobbies": ["Gym🏋🏻", "Reading📖", "Chess♟", "Value Investing🌖", "Tottenham Hotspur FC⚽️"],<br />
     &emsp;&ensp;"Favorite_Books": sorted(["The Power of One", "1984", "Principles", "The Catcher in the Rye", "City of Thieves"]),<br />
-    &emsp;&ensp;"Currently_Learning": "Swift",<br />
+    &emsp;&ensp;"Currently_Learning": "Rust",<br />
     &emsp;&ensp;"Social_Cause": "https://consilienceproject.org",<br />
     &emsp;&ensp;"Answer": "Love"<br />
 }<br />
